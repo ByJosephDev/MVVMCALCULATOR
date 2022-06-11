@@ -1,0 +1,15 @@
+/Users/josephpuma/Documents/Xamarin/MVVMCalculator/MVVMCalculator/MVVMCalculator/bin/Debug/netstandard2.0/MVVMCalculator.deps.json
+/Users/josephpuma/Documents/Xamarin/MVVMCalculator/MVVMCalculator/MVVMCalculator/bin/Debug/netstandard2.0/MVVMCalculator.dll
+/Users/josephpuma/Documents/Xamarin/MVVMCalculator/MVVMCalculator/MVVMCalculator/bin/Debug/netstandard2.0/ref/MVVMCalculator.dll
+/Users/josephpuma/Documents/Xamarin/MVVMCalculator/MVVMCalculator/MVVMCalculator/bin/Debug/netstandard2.0/MVVMCalculator.pdb
+/Users/josephpuma/Documents/Xamarin/MVVMCalculator/MVVMCalculator/MVVMCalculator/obj/Debug/netstandard2.0/MVVMCalculator.csproj.AssemblyReference.cache
+/Users/josephpuma/Documents/Xamarin/MVVMCalculator/MVVMCalculator/MVVMCalculator/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/josephpuma/Documents/Xamarin/MVVMCalculator/MVVMCalculator/MVVMCalculator/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/josephpuma/Documents/Xamarin/MVVMCalculator/MVVMCalculator/MVVMCalculator/obj/Debug/netstandard2.0/MVVMCalculator.AssemblyInfoInputs.cache
+/Users/josephpuma/Documents/Xamarin/MVVMCalculator/MVVMCalculator/MVVMCalculator/obj/Debug/netstandard2.0/MVVMCalculator.AssemblyInfo.cs
+/Users/josephpuma/Documents/Xamarin/MVVMCalculator/MVVMCalculator/MVVMCalculator/obj/Debug/netstandard2.0/MVVMCalculator.csproj.CoreCompileInputs.cache
+/Users/josephpuma/Documents/Xamarin/MVVMCalculator/MVVMCalculator/MVVMCalculator/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/josephpuma/Documents/Xamarin/MVVMCalculator/MVVMCalculator/MVVMCalculator/obj/Debug/netstandard2.0/MVVMCalculator.dll
+/Users/josephpuma/Documents/Xamarin/MVVMCalculator/MVVMCalculator/MVVMCalculator/obj/Debug/netstandard2.0/ref/MVVMCalculator.dll
+/Users/josephpuma/Documents/Xamarin/MVVMCalculator/MVVMCalculator/MVVMCalculator/obj/Debug/netstandard2.0/MVVMCalculator.pdb
+/Users/josephpuma/Documents/Xamarin/MVVMCalculator/MVVMCalculator/MVVMCalculator/obj/Debug/netstandard2.0/Views/Calculator.xaml.g.cs
